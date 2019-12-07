@@ -1,0 +1,6 @@
+4
+HIOFCR  1  0    10
+STOL3N  2  3    20
+SHKSPR  1 8   30
+2DIE4   3 7    5
+BYOFCR  1 2    15
